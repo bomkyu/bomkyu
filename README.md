@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,&nbsp;World!&fontAlign=65&fontAlignY=40&color=gradient)
-<h3>😀 Introduce 😀</h3>
+<h2>😀 Introduce 😀</h2>
 <p>
   안녕하세요!<br>
   질문하는걸 두려워 하지 않는 Front-End개발자 서범규 라고 합니다 :) 
@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-<h3>🛠 My Skills 🛠</h3>
+<h2>🛠 My Skills 🛠</h2>
 <h4>🖥 Front-End 🖥</h4>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white">
 </div>
-<br>
 <h4>🖥 Back-End 🖥</h4>
 <div>
   <img src="https://img.shields.io/badge/FireStore-4285F4?style=for-the-badge&logo=Google&logoColor=white">
@@ -25,7 +24,7 @@
 <br>
 <br>
 <br>
-<h3>📚 studying.. 📚</h3>
+<h2>📚 studying.. 📚</h2>
 <div>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
