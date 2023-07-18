@@ -8,7 +8,6 @@
 <br>
 <br>
 <h3>🛠 My Skills 🛠</h3>
-<br>
 <h4>🖥 Front-End 🖥</h4>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
