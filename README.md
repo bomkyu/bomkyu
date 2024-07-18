@@ -33,7 +33,4 @@
 <br>
 <br>
 <br>
-<h3>마치며...</h3>
-<p>
-  저는 프론트에서 멈춰있는게 아닌 풀스택까지 도전하려 합니다 :)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomkyu&show_icons=true&theme=radical)
