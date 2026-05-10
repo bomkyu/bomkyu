@@ -27,14 +27,7 @@
 
 ---
 
-### 🚀 Main Project
 
-**[BeomLog (Full-stack Blog)](https://beomlog.dev)**
-- **특징**: Next.js 15 + NestJS 11 + Docker 기반의 풀스택 블로그 플랫폼
-- **성과**: 가상 서버(iwinv) 직접 구축 및 Cloudflare 보안 최적화 적용
-- **기술**: SSR 최적화, Swagger API 문서화, CI/CD 자동화
-
----
 
 ### 📊 GitHub Stats
 [![Beomkyu 2026 Stats](https://github-readme-stats-bomkyu4682-aarzkw41.apn.leapcell.dev/api?username=bomkyu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Beomkyu+Stats)](https://github-readme-stats-bomkyu4682-aarzkw41.apn.leapcell.dev/api?username=bomkyu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Beomkyu+Stats)
