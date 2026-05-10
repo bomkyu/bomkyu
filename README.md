@@ -27,8 +27,6 @@
 
 ---
 
-
-
 ### 📊 GitHub Stats
 [![Beomkyu 2026 Stats](https://github-readme-stats-bomkyu4682-aarzkw41.apn.leapcell.dev/api?username=bomkyu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Beomkyu+Stats)](https://github-readme-stats-bomkyu4682-aarzkw41.apn.leapcell.dev/api?username=bomkyu&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Beomkyu+Stats)
 ---
